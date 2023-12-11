@@ -19,5 +19,6 @@ int main()
 {
   int x = 3;
   fun(x);
+  printf("HELLO WORLD");
   return 0;
 }
